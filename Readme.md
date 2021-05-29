@@ -20,5 +20,15 @@
 ### Cons
 -if you not understand you can leak memory
 
+## Main rules:
+-DRY - don't repeat yourself
+-KISS - keep it simple
 
-
+# Decorator
+-add additional functionality to function (augmented function)
+- 3 types of decorators
+    1. function decorator
+        - need to use closure for creating
+    2. class decorator
+    3. decorator as a design patter
+        -different from python decorator functionality
